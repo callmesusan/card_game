@@ -2,7 +2,7 @@
 
 ## Run Dev
 
-`npm install` 
+`npm install`\
 `npm run dev`
 
 ## Recommended IDE Setup
